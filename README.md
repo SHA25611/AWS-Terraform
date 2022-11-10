@@ -1,8 +1,12 @@
 # AWS-Terraform
 
->**Here we are provisioning aws infrastructure using terraform code**
+>**Here we are provisioning aws basic production infrastructure using terraform code**
 
+The project name is sample project.
 
-
-Following services covered : -
-EC2, VPC, S3, IAM, Secrets Manager, Session Manager, RDS and CloudWatch.
+Topics implemented:
+1. VPC
+2. EC2 servers
+3. IAM roles and policies
+4. Application load balancer
+5. SSM
